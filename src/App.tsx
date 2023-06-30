@@ -172,7 +172,7 @@ const App = () => {
       <div className="main-box">
         <div className="title">
           <h1>Taquito React template</h1>
-          <a href="https://app.netlify.com/start/deploy?repository=https://github.com/ecadlabs/taquito-react-template">
+          <a href="https://app.netlify.com/start/deploy?repository=https://github.com/starlabman/Learnweb3_tezos_dapp">
             <img
               src="https://www.netlify.com/img/deploy/button.svg"
               alt="netlify-button"
@@ -194,7 +194,7 @@ The rewards for the Tezos India bounty program vary depending on the complexity 
               <br />
               If you have not done so already, go to the{" "}
               <a
-                href="https://github.com/ecadlabs/taquito-react-template"
+                href="https://github.com/starlabman/Learnweb3_tezos_dapp"
                 target="_blank"
                 rel="noopener noreferrer"
               >
